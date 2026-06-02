@@ -31,11 +31,11 @@
 
 - Repositorio original: https://github.com/Wesgas20/Proyecto_Computacional
 - Fecha de creación del repositorio: 2026-04-16 (antes del 14 de abril: no)
-- Total de commits desde creación del repo: 5
+- Total de commits desde creación del repo: 6
 - Primer commit: 2026-04-16
-- Último commit: 2026-05-28
-- Días activos con commits: 4
-- Semanas activas con commits: 3
+- Último commit: 2026-06-02
+- Días activos con commits: 5
+- Semanas activas con commits: 4
 - Mayor pausa entre commits: 30 días
 
 ### Aplicación al repositorio
