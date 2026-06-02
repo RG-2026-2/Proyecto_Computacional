@@ -9,33 +9,13 @@
 
 ## Historial de commits
 
-- (Pendiente de análisis automático en Fase 3.)
-
-## Retroalimentación
-
-- Archivo revisado: Proyecto_Final_RG_2026.ipynb
-
-### Aspectos positivos
-
-- (Pendiente de análisis automático en Fase 3.)
-
-### Aspectos por mejorar
-
-- (Pendiente de análisis automático en Fase 3.)
-
-### Valoración global
-
-- Estado de recepción: pendiente de revisión automática inicial.
-
-## Historial de commits
-
 - Repositorio original: https://github.com/Wesgas20/Proyecto_Computacional
 - Fecha de creación del repositorio: 2026-04-16 (antes del 14 de abril: no)
-- Total de commits desde creación del repo: 6
+- Total de commits desde creación del repo: 5
 - Primer commit: 2026-04-16
-- Último commit: 2026-06-02
-- Días activos con commits: 5
-- Semanas activas con commits: 4
+- Último commit: 2026-05-28
+- Días activos con commits: 4
+- Semanas activas con commits: 3
 - Mayor pausa entre commits: 30 días
 
 ### Aplicación al repositorio
@@ -46,22 +26,26 @@
 - Iteración: 3.0
 - Nota de ritmo de commits (promedio): 3.12 / 5.0
 
-Interpretación breve: Ritmo intermedio con concentración del trabajo en pocas semanas.
+Interpretación breve: El trabajo tuvo avance en varias semanas, pero con pausas largas y cierre concentrado hacia el final del curso.
+
 ## Retroalimentación
+
+- Archivo revisado: Proyecto_Final_RG_2026.ipynb
 
 ### Aspectos positivos
 
-- El trabajo presenta una base funcional sobre la cual se puede consolidar una mejor presentación científica.
+- El notebook aborda temas relevantes del curso (beaming, geodésicas y jet), con intención de construir un proyecto integral.
+- Hay esfuerzo por desarrollar simulaciones y visualizaciones que conecten con el fenómeno físico del disco de acreción.
+- La base técnica del trabajo permite proyectar mejoras claras sin rehacer el proyecto desde cero.
 
 ### Aspectos por mejorar
 
-- El objetivo principal no queda suficientemente explícito; conviene reportar de forma directa fecha y distancia de máxima aproximación en 2029.
-- El trabajo parece apoyarse en pocas estrategias; se sugiere contrastar con más de un enfoque numerico/teórico.
-- Falta fortalecer la parte de análisis y reflexión; no basta con mostrar resultados sin interpretarlos.
-- La explicación previa al código es parcial; conviene anteceder cada bloque importante con una celda de texto breve.
-- Hay celdas de código muy largas; se recomienda modularizar en funciones y dividir bloques extensos.
+- Agrega una sección final de conclusiones que responda explícitamente: qué modelo funcionó mejor, qué resultado físico principal obtuviste y cuáles son las limitaciones.
+- Incluye una figura síntesis del disco (resultado final del proyecto) y descríbela en un párrafo corto: qué se observa y cómo se interpreta físicamente.
+- Divide los bloques largos de código en celdas por propósito (parámetros, funciones, integración, visualización) para que el lector pueda verificar cada etapa.
+- Antes de cada bloque importante de código, agrega una explicación breve del objetivo de esa celda y del resultado esperado.
 
 ### Valoración global
 
-- El trabajo tiene avances técnicos, pero necesita mejoras de fondo en comunicación de resultados y/o cumplimiento explícito del objetivo.
-- Estado de recepción: requiere cambios antes de recepción final.
+- Trabajo con base técnica y buen potencial. Las mejoras más urgentes son cerrar con conclusiones y presentar una imagen final integrada que cumpla de forma explícita el objetivo del proyecto.
+- Estado de recepción: se recibe como fue entregado, con recomendaciones de mejora para fortalecer el informe final.
